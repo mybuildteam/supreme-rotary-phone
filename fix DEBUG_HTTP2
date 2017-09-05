@@ -1,0 +1,6 @@
+In file included from ../src/node_http2.cc:3:
+In file included from ../src/node_http2.h:6:
+../src/node_http2_core-inl.h:43:32: error: too few arguments to function
+call, single argument 'type'
+      was not specified
+              handle->TypeName(), len, message);
